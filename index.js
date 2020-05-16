@@ -111,9 +111,3 @@ bot.on('callback_query', function onCallbackQuery(callbackQuery) {
     // console.log(msg);
     // bot.answerCallbackQuery(callbackQuery.id, "Teste de Alerta", true);
 });
-
-// Nuconta AgACAgEAAxkDAAN5XrpZPTPHniyUL-Q-R8FBwRDM3ooAAnWoMRsM2NFFSyetAXad6Xr_2WsGAAQBAAMCAAN4AAPi1AMAARkE
-// BB AgACAgEAAxkDAAN7XrpZywMh47O_9yc5AQMdmWQC5woAAnSoMRsM2NFFtkUwZCrku_Jd5G4GAAQBAAMCAAN5AAOyEAIAARkE
-// Picpay AgACAgEAAxkDAAN_XrpaKgbRGqgMg25L0Xqvodjef5wAAnOoMRsM2NFFYSSZJA-r_YaT6GsGAAQBAAMCAAN4AAPI0gMAARkE
-// Caixa AgACAgEAAxkDAAOdXrpgt19g_8J3vt1svzJDwG6MLswAAneoMRsM2NFFDj6cAZWg08Jr62sGAAQBAAMCAANtAAMW6gMAARkE
-// notsure AgACAgEAAxkDAAOOXrpdXXCbevuG1q1I7DP0CRCdMZcAAnaoMRsM2NFFkAsPrj_3pZXz224GAAQBAAMCAANtAAP0EAIAARkE
